@@ -2,7 +2,7 @@
     var btnPay = $('#btn_pay');
     var s = $('#wxState').val();
     //s形如4000_2016-04-23,报名费用_活动截止时间
-    var endDate = new Date(s.split('_')[1].replace('-', '/') + ' 00:00:00');//活动终止时间
+    var endDate = new Date(s.split('_')[1].replace('-', '/').replace('-', '/') + ' 00:00:00');//活动终止时间
     var nowDate = new Date();
     if (endDate > nowDate) {
         btnPay.click(function () {
