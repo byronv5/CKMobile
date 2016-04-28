@@ -1,0 +1,13 @@
+F:\CKMobile\tenpay\bin\Debug\tenpay.dll
+F:\CKMobile\tenpay\bin\Debug\tenpay.pdb
+F:\CKMobile\tenpay\obj\Debug\tenpay.dll
+F:\CKMobile\tenpay\obj\Debug\tenpay.pdb
+F:\初克v1.0\CKMobile\tenpay\bin\Debug\tenpay.dll
+F:\初克v1.0\CKMobile\tenpay\bin\Debug\tenpay.pdb
+F:\初克v1.0\CKMobile\tenpay\bin\Debug\CommonLibrary.dll
+F:\初克v1.0\CKMobile\tenpay\bin\Debug\Newtonsoft.Json.dll
+F:\初克v1.0\CKMobile\tenpay\bin\Debug\log4net.dll
+F:\初克v1.0\CKMobile\tenpay\bin\Debug\CommonLibrary.pdb
+F:\初克v1.0\CKMobile\tenpay\obj\Debug\tenpay.csprojResolveAssemblyReference.cache
+F:\初克v1.0\CKMobile\tenpay\obj\Debug\tenpay.dll
+F:\初克v1.0\CKMobile\tenpay\obj\Debug\tenpay.pdb

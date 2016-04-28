@@ -1,0 +1,10 @@
+F:\初克v1.0\CKMobile\CK.Bll\bin\Debug\CK.Bll.dll
+F:\初克v1.0\CKMobile\CK.Bll\bin\Debug\CK.Bll.pdb
+F:\初克v1.0\CKMobile\CK.Bll\bin\Debug\CK.Dal.dll
+F:\初克v1.0\CKMobile\CK.Bll\bin\Debug\CK.Model.dll
+F:\初克v1.0\CKMobile\CK.Bll\bin\Debug\MongoDB.dll
+F:\初克v1.0\CKMobile\CK.Bll\bin\Debug\CK.Dal.pdb
+F:\初克v1.0\CKMobile\CK.Bll\bin\Debug\CK.Model.pdb
+F:\初克v1.0\CKMobile\CK.Bll\obj\Debug\CK.Bll.csprojResolveAssemblyReference.cache
+F:\初克v1.0\CKMobile\CK.Bll\obj\Debug\CK.Bll.dll
+F:\初克v1.0\CKMobile\CK.Bll\obj\Debug\CK.Bll.pdb

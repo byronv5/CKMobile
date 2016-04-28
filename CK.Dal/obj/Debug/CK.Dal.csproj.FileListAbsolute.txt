@@ -1,0 +1,8 @@
+F:\初克v1.0\CKMobile\CK.Dal\bin\Debug\CK.Dal.dll
+F:\初克v1.0\CKMobile\CK.Dal\bin\Debug\CK.Dal.pdb
+F:\初克v1.0\CKMobile\CK.Dal\bin\Debug\CK.Model.dll
+F:\初克v1.0\CKMobile\CK.Dal\bin\Debug\MongoDB.dll
+F:\初克v1.0\CKMobile\CK.Dal\bin\Debug\CK.Model.pdb
+F:\初克v1.0\CKMobile\CK.Dal\obj\Debug\CK.Dal.csprojResolveAssemblyReference.cache
+F:\初克v1.0\CKMobile\CK.Dal\obj\Debug\CK.Dal.dll
+F:\初克v1.0\CKMobile\CK.Dal\obj\Debug\CK.Dal.pdb

@@ -1,0 +1,8 @@
+F:\初克v1.0\CKMobile\CK.Dal\bin\Release\CK.Dal.dll
+F:\初克v1.0\CKMobile\CK.Dal\bin\Release\CK.Dal.pdb
+F:\初克v1.0\CKMobile\CK.Dal\bin\Release\CK.Model.dll
+F:\初克v1.0\CKMobile\CK.Dal\bin\Release\MongoDB.dll
+F:\初克v1.0\CKMobile\CK.Dal\bin\Release\CK.Model.pdb
+F:\初克v1.0\CKMobile\CK.Dal\obj\Release\CK.Dal.csprojResolveAssemblyReference.cache
+F:\初克v1.0\CKMobile\CK.Dal\obj\Release\CK.Dal.dll
+F:\初克v1.0\CKMobile\CK.Dal\obj\Release\CK.Dal.pdb

@@ -1,0 +1,10 @@
+2016-02-13 17:47:14,675 线程：[6] ERROR LogError [(null)] - ajax调用异常
+
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 CK.Wx.ajax.GetWxJsApiConfig.GetAjaxResult(HttpContext context) 位置 f:\初克v1.0\CKMobile\CK.Wx\ajax\GetWxJsApiConfig.ashx.cs:行号 28
+   在 CK.Wx.ajax.BaseAjax.ProcessRequest(HttpContext context) 位置 f:\初克v1.0\CKMobile\CK.Wx\ajax\BaseAjax.ashx.cs:行号 21
+2016-02-13 17:47:19,570 线程：[9] ERROR LogError [(null)] - ajax调用异常
+
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 CK.Wx.ajax.GetWxJsApiConfig.GetAjaxResult(HttpContext context) 位置 f:\初克v1.0\CKMobile\CK.Wx\ajax\GetWxJsApiConfig.ashx.cs:行号 28
+   在 CK.Wx.ajax.BaseAjax.ProcessRequest(HttpContext context) 位置 f:\初克v1.0\CKMobile\CK.Wx\ajax\BaseAjax.ashx.cs:行号 21

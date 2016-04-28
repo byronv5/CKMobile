@@ -1,0 +1,5 @@
+F:\初克v1.0\CKMobile\CK.Model\bin\Debug\CK.Model.dll
+F:\初克v1.0\CKMobile\CK.Model\bin\Debug\CK.Model.pdb
+F:\初克v1.0\CKMobile\CK.Model\obj\Debug\CK.Model.dll
+F:\初克v1.0\CKMobile\CK.Model\obj\Debug\CK.Model.pdb
+F:\初克v1.0\CKMobile\CK.Model\obj\Debug\CK.Model.csprojResolveAssemblyReference.cache

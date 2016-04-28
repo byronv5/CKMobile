@@ -1,0 +1,16 @@
+2016-02-13 17:38:52,440 线程：[6] INFO  LogInfo [(null)] - HTPP的Get请求url:https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx51061acd4faae921&secret=fbac2835273622513b785d4bef13cf2a
+
+2016-02-13 17:38:52,935 线程：[6] INFO  LogInfo [(null)] - HTTP的Get请求返回:{"access_token":"5qdBocPX00ziQ1DReBGtvOp6LrNTdvIvvjb4Z1VBcqsTG6h1DpexLz-LTWkUxJNlPrNFeLRc67zIBpIiKNYiVvW9Kug6Q2CswwbSDPyJLcbhgxudPFUy6Kct32hE7qacWKSgAJACQY","expires_in":7200} 耗时442毫秒
+
+2016-02-13 17:47:14,053 线程：[6] INFO  LogInfo [(null)] - HTPP的Get请求url:https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx51061acd4faae921&secret=fbac2835273622513b785d4bef13cf2a
+
+2016-02-13 17:47:14,567 线程：[6] INFO  LogInfo [(null)] - HTTP的Get请求返回:{"access_token":"Nk0QVPcnaCSWpZliycT0kHzHJJx1u40M03EFrDBmaacDW9bsp8tHW_pVPIoM76P_7iSgr4vQoyXEwSiRKfDjDc9usVRVf9I1i0giZYLZdcY4ICw0AaSiyXTW8Z5v6yaVDYRgAEAKFY","expires_in":7200} 耗时464毫秒
+
+2016-02-13 17:50:41,773 线程：[8] INFO  LogInfo [(null)] - HTPP的Get请求url:https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx51061acd4faae921&secret=fbac2835273622513b785d4bef13cf2a
+
+2016-02-13 17:50:42,338 线程：[8] INFO  LogInfo [(null)] - HTTP的Get请求返回:{"access_token":"2Any25EM9VERbsMWI8inmxvlxFuiWYH9z2LMhgaiCeOlRI1WCMUV2BqFmAFTT8pWr3OEmtnd810WB6J_1sklCrNLmetTOOzbNoFY-xbVOojZjW2BOTR85pb68OfsU4aEIKXeAFAUWJ","expires_in":7200} 耗时528毫秒
+
+2016-02-13 17:50:46,829 线程：[8] INFO  LogInfo [(null)] - HTPP的POST请求url:https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=2Any25EM9VERbsMWI8inmxvlxFuiWYH9z2LMhgaiCeOlRI1WCMUV2BqFmAFTT8pWr3OEmtnd810WB6J_1sklCrNLmetTOOzbNoFY-xbVOojZjW2BOTR85pb68OfsU4aEIKXeAFAUWJ&type=jsapi,data:
+
+2016-02-13 17:50:46,927 线程：[8] INFO  LogInfo [(null)] - HTTP的POST请求返回:{"errcode":0,"errmsg":"ok","ticket":"kgt8ON7yVITDhtdwci0qeazPvdLL4BhGJqg1Zjv7VfUv0bb6T_cn_G3ijHbhOWJm-k8iQSC22vcJVlyu-B0Edg","expires_in":7200} 耗时96毫秒
+

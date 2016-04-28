@@ -1,0 +1,38 @@
+2016-02-14 10:08:10,037 线程：[8] INFO  LogInfo [(null)] - 授权认证第一步获取到code：
+
+2016-02-14 10:10:21,740 线程：[13] INFO  LogInfo [(null)] - WebClient方式请求url:https://api.weixin.qq.com/sns/oauth2/access_token。data:appid=wx51061acd4faae921&secret=fbac2835273622513b785d4bef13cf2a&code=&grant_type=authorization_code
+
+2016-02-14 10:10:22,468 线程：[13] INFO  LogInfo [(null)] - WebClient方式请求返回:{"errcode":41008,"errmsg":"missing code, hints: [ req_id: GJYnPA0820ns54 ]"}
+
+2016-02-14 10:10:22,469 线程：[13] INFO  LogInfo [(null)] - 获取用户openid返回：{"errcode":41008,"errmsg":"missing code, hints: [ req_id: GJYnPA0820ns54 ]"}
+
+2016-02-14 10:12:01,109 线程：[6] INFO  LogInfo [(null)] - 授权认证第一步获取到code：
+
+2016-02-14 10:27:26,292 线程：[7] INFO  LogInfo [(null)] - 授权认证第一步获取到code：
+
+2016-02-14 10:27:37,496 线程：[7] INFO  LogInfo [(null)] - 授权认证第一步获取到code：
+
+2016-02-14 10:56:37,018 线程：[6] INFO  LogInfo [(null)] - 授权认证第一步获取到code：
+
+2016-02-14 10:56:38,220 线程：[6] INFO  LogInfo [(null)] - HTPP的Get请求url:https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx51061acd4faae921&secret=fbac2835273622513b785d4bef13cf2a
+
+2016-02-14 10:56:38,634 线程：[6] INFO  LogInfo [(null)] - HTTP的Get请求返回:{"access_token":"Pl8UJNRVS1zwQIzfn7pD42RVO2zUYjCYNubhIUhPw2jwHwEbT3hVmsvVMGzczSgxfpbLcdhnzgIKJoNeS3Ce_3F--86oBJ8G69731RCxOwc-Mu13gkWp_qBU5DTG5w2CYBDhAEAJMO","expires_in":7200} 耗时399毫秒
+
+2016-02-14 10:56:38,676 线程：[6] INFO  LogInfo [(null)] - HTPP的POST请求url:https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=Pl8UJNRVS1zwQIzfn7pD42RVO2zUYjCYNubhIUhPw2jwHwEbT3hVmsvVMGzczSgxfpbLcdhnzgIKJoNeS3Ce_3F--86oBJ8G69731RCxOwc-Mu13gkWp_qBU5DTG5w2CYBDhAEAJMO&type=jsapi,data:
+
+2016-02-14 10:56:38,768 线程：[6] INFO  LogInfo [(null)] - HTTP的POST请求返回:{"errcode":0,"errmsg":"ok","ticket":"kgt8ON7yVITDhtdwci0qeazPvdLL4BhGJqg1Zjv7VfVOi7nt0D2EFzEXonoFToS4FO1NMjFFGeB_6B13feeZmg","expires_in":7200} 耗时91毫秒
+
+2016-02-14 10:57:11,026 线程：[6] INFO  LogInfo [(null)] - 授权认证第一步获取到code：
+
+2016-02-14 11:17:40,215 线程：[6] INFO  LogInfo [(null)] - 授权认证第一步获取到code：
+
+2016-02-14 11:17:40,881 线程：[8] INFO  LogInfo [(null)] - HTPP的Get请求url:https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx51061acd4faae921&secret=fbac2835273622513b785d4bef13cf2a
+
+2016-02-14 11:17:41,332 线程：[8] INFO  LogInfo [(null)] - HTTP的Get请求返回:{"access_token":"t-vuIdiggb6ve9Kw8rUvVP6yw357px27qOuVOgZ3ibRkPxB5fpzoexyHC_iMEBqIKruoDzzJ3oWCCH-PIfDRZJkSi2m04_cLc4ejoMHPftASPj1PeT-Y_AhsYPGyJjxPOKZcAIACYN","expires_in":7200} 耗时433毫秒
+
+2016-02-14 11:17:41,382 线程：[8] INFO  LogInfo [(null)] - HTPP的POST请求url:https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=t-vuIdiggb6ve9Kw8rUvVP6yw357px27qOuVOgZ3ibRkPxB5fpzoexyHC_iMEBqIKruoDzzJ3oWCCH-PIfDRZJkSi2m04_cLc4ejoMHPftASPj1PeT-Y_AhsYPGyJjxPOKZcAIACYN&type=jsapi,data:
+
+2016-02-14 11:17:41,471 线程：[8] INFO  LogInfo [(null)] - HTTP的POST请求返回:{"errcode":0,"errmsg":"ok","ticket":"kgt8ON7yVITDhtdwci0qeazPvdLL4BhGJqg1Zjv7VfVOi7nt0D2EFzEXonoFToS4FO1NMjFFGeB_6B13feeZmg","expires_in":7200} 耗时88毫秒
+
+2016-02-14 11:18:02,392 线程：[6] INFO  LogInfo [(null)] - 授权认证第一步获取到code：
+

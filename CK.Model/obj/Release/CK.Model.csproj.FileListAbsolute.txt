@@ -1,0 +1,5 @@
+F:\初克v1.0\CKMobile\CK.Model\bin\Release\CK.Model.dll
+F:\初克v1.0\CKMobile\CK.Model\bin\Release\CK.Model.pdb
+F:\初克v1.0\CKMobile\CK.Model\obj\Release\CK.Model.csprojResolveAssemblyReference.cache
+F:\初克v1.0\CKMobile\CK.Model\obj\Release\CK.Model.dll
+F:\初克v1.0\CKMobile\CK.Model\obj\Release\CK.Model.pdb
