@@ -55,7 +55,6 @@
     <Compile Include="Assist\LogHelper.cs" />
     <Compile Include="Assist\RegexClass.cs" />
     <Compile Include="Assist\RegexFormatter.cs" />
-    <Compile Include="Assist\REVLPConfig.cs" />
     <Compile Include="Assist\XmlHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Security\DecrypManager.cs" />
@@ -63,7 +62,6 @@
     <Compile Include="Security\HMACSHA1.cs" />
     <Compile Include="Security\Md5Helper.cs" />
     <Compile Include="Security\New3Des.cs" />
-    <Compile Include="Security\SignHelper.cs" />
     <Compile Include="Security\XXtea.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

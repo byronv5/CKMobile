@@ -47,15 +47,16 @@ namespace CommonLibrary.Assist
         /// </summary>
         /// <param name="strName">主键</param>
         /// <param name="strValue">键值</param>
+        /// <param name="days">天数</param>
         /// <returns></returns>
-        public static bool SetCookie(string strName, string strValue)
+        public static bool SetCookie(string strName, string strValue, int days)
         {
             try
             {
                 //LogHelper.WriteInfoLog("设置TokenName：" + strName + ",Value：" + strValue);
                 var cookie = new HttpCookie(strName)
                 {
-                    Expires = DateTime.Now.AddDays(REVLPConfig.CookieDays),
+                    Expires = DateTime.Now.AddDays(days),
                     Value = strValue
                 };
                 //Cookie.Domain = ".xxx.com";//当要跨域名访问的时候,给cookie指定域名即可,格式为.xxx.com

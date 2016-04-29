@@ -158,13 +158,15 @@ namespace CommonLibrary.Assist
                 req.UserAgent = Ie7;
                 req.Accept = "text/html,application/xhtml+xml,application/xml;q=0.9,**;q=0.8";
                 req.Timeout = 50000;
-
+                Stopwatch watch = new Stopwatch();
+                watch.Start();
                 var res = (HttpWebResponse)req.GetResponse();
+                watch.Stop();
                 using (Stream s = res.GetResponseStream())
                 {
                     var reader = new StreamReader(s, Encoding.UTF8);
                     string hg = reader.ReadToEnd();
-                    LogHelper.WriteInfoLog("HTPP的GET请求返回:" + hg);
+                    LogHelper.WriteInfoLog(string.Format("HTPP的GET请求返回:{0}。耗时：{1}毫秒", hg, watch.ElapsedMilliseconds));
                     return hg;
                 }
             }
@@ -180,7 +182,7 @@ namespace CommonLibrary.Assist
             return PostData(postUrl, data, Encoding.UTF8);
         }
 
-        public static string PostData(string postUrl, string data, Encoding encoding)
+        private static string PostData(string postUrl, string data, Encoding encoding)
         {
             LogHelper.WriteInfoLog("HTPP的POST请求url:" + postUrl + ",data:" + data);
             try
