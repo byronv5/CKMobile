@@ -13,9 +13,9 @@ namespace tenpay
 {
     public class TenpayUtil
     {
-        private string _paySignKey = ConfigurationManager.AppSettings["paySignKey"];
+        //private string _paySignKey = ConfigurationManager.AppSettings["PaySignKey"];
         private readonly string _appSecret = ConfigurationManager.AppSettings["AppSecret"];
-        private string _mchId = ConfigurationManager.AppSettings["mch_id"];
+        //private string _mchId = ConfigurationManager.AppSettings["mch_id"];
         private readonly string _appId = ConfigurationManager.AppSettings["AppId"];
 
         /// <summary>

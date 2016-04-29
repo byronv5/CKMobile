@@ -36,7 +36,7 @@ namespace CK.Wx.ajax
                     #region 相关配置参数
 
                     TenpayUtil tenpay = new TenpayUtil();
-                    string paySignKey = ConfigurationManager.AppSettings["paySignKey"];
+                    string paySignKey = ConfigurationManager.AppSettings["PaySignKey"];
                     string appSecret = ConfigurationManager.AppSettings["AppSecret"];
                     string mchId = ConfigurationManager.AppSettings["mch_id"];
                     string appId = ConfigurationManager.AppSettings["AppId"];

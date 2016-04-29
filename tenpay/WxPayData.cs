@@ -191,7 +191,7 @@ namespace tenpay
             //转url格式
             string str = ToUrl();
             //在string后加入商户支付密钥
-            str += "&key=" + ConfigurationManager.AppSettings["paySignKey"]; ;
+            str += "&key=" + ConfigurationManager.AppSettings["PaySignKey"]; ;
             //MD5加密
             var md5 = MD5.Create();
             var bs = md5.ComputeHash(Encoding.UTF8.GetBytes(str));
