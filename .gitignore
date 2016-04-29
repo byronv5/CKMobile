@@ -1,1 +1,3 @@
-*.dll
+bin
+*.suo
+obj
