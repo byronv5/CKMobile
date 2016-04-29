@@ -26,6 +26,5 @@ F:\初克v1.0\CKMobile\CommonLibrary\bin\Debug\CommonLibrary.dll
 F:\初克v1.0\CKMobile\CommonLibrary\bin\Debug\CommonLibrary.pdb
 F:\初克v1.0\CKMobile\CommonLibrary\bin\Debug\log4net.dll
 F:\初克v1.0\CKMobile\CommonLibrary\bin\Debug\Newtonsoft.Json.dll
-F:\初克v1.0\CKMobile\CommonLibrary\obj\Debug\CommonLibrary.csprojResolveAssemblyReference.cache
 F:\初克v1.0\CKMobile\CommonLibrary\obj\Debug\CommonLibrary.dll
 F:\初克v1.0\CKMobile\CommonLibrary\obj\Debug\CommonLibrary.pdb
